@@ -11,6 +11,8 @@ Avaliador (Alura\Leilao\Tests\Service\Avaliador)
  [x] Avaliador deve buscar 3 maiores valores with data set "ordem-crescente"
  [x] Avaliador deve buscar 3 maiores valores with data set "ordem-descrescente"
  [x] Avaliador deve buscar 3 maiores valores with data set "ordem-aleatória"
+ [x] Leilao vazio nao pode ser avaliado
+ [x] Leilao finalizado nao pode ser avaliado
 
 Leilao (Alura\Leilao\Tests\Models\Leilao)
  [x] Leilao nao deve receber lances repetidos
